@@ -28,6 +28,10 @@ public class Ejemplo11 {
         20     40
         */
         int[][] sumaArreglo = new int[2][2];
+        /*
+        4   6
+        30  52
+        */
         
         int valor1;
         int valor2;
